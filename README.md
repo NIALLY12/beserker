@@ -1,4 +1,4 @@
-opa, sou o wagner vim falar um pouco sobre mim.
+   opa, sou o wagner vim falar um pouco sobre mim.
 
    Informações Pessoais
    - Nome Wagner Natan Souza Dos Santos
@@ -8,7 +8,7 @@ opa, sou o wagner vim falar um pouco sobre mim.
    - Objetivo: entrar para o exerci
    - Dificuldades/Obstáculos: a dificuldade é os treinamentos e os obstaculos eu ser aceito
 
-   Habilidades e Competências
+   Habilidades
    - Habilidade: lutar boxe
    - Nível:Avançado
    - Cursos realizados:html iniciante
